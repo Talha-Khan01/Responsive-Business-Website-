@@ -1,0 +1,71 @@
+{
+    "services":[
+
+        {
+            "icon":"fas fa-code",
+            "title":"Web Development",
+            "description":"Modern responsive websites built with clean and scalable code."
+        },
+
+        {
+            "icon":"fas fa-mobile-screen",
+            "title":"Mobile Applications",
+            "description":"Powerful Android and iOS applications with excellent UX."
+        },
+
+        {
+            "icon":"fas fa-paintbrush",
+            "title":"UI/UX Design",
+            "description":"Creative interfaces designed for better user experiences."
+        },
+
+        {
+            "icon":"fas fa-chart-line",
+            "title":"Digital Marketing",
+            "description":"Grow your online presence with effective marketing strategies."
+        },
+
+        {
+            "icon":"fas fa-database",
+            "title":"Database Solutions",
+            "description":"Secure and optimized database management systems."
+        },
+
+        {
+            "icon":"fas fa-cloud",
+            "title":"Cloud Services",
+            "description":"Reliable cloud hosting and deployment solutions."
+        }
+
+    ],
+
+
+    "testimonials":[
+
+        {
+            "name":"John Smith",
+            "company":"Tech Solutions",
+            "message":"NovaTech delivered an amazing website with outstanding quality."
+        },
+
+        {
+            "name":"Sarah Williams",
+            "company":"Creative Studio",
+            "message":"The design and performance exceeded our expectations."
+        },
+
+        {
+            "name":"Michael Brown",
+            "company":"Startup Hub",
+            "message":"Professional team and excellent communication throughout the project."
+        },
+        
+        {
+            "name":"Michael Brown",
+            "company":"Startup Hub",
+            "message":"Professional team and excellent communication throughout the project."
+        }
+
+    ]
+
+}
